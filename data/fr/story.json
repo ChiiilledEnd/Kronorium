@@ -5,8 +5,8 @@
       "event": "Il n'y avait que l'Éther et les Veilleurs. Parmi eux, il y avait deux êtres qui seraient connus plus tard par de nombreux noms. L'un sera connu sous le nom de Docteur Monty, l'autre sous le nom du Shadowman"
     },
     {
-      "date": "3 SEPTEMBRE, 5AP Jésus-Christ",
-      "event": "Sachant que la planète a une porte d'entrée sur Agartha, les Apothicons envoient des météorites de l'élément 115 à la Terre. Ils croient que l'humanité utilisera un jour l'élément 115 pour faire la guerre entre eux, ouvrant une faille qui permettra aux Apothicons d'échapper à l'Éther Noir."
+      "date": "3 SEPTEMBRE, AN 5 AP Jésus-Christ",
+      "event": "Les Apothicons envoient des météorites d'élément 115 sur Terre en sachant que la planète a une porte d'entrée menant sur Agartha. Ils croient que l'humanité utilisera un jour l'élément 115 pour faire la guerre entre eux, et qui ouvrira une faille permettant aux Apothicons d'échapper à l'Éther Noir."
     },
     {
       "date": "15 JANVIER 1292",
@@ -20,11 +20,11 @@
   "1": [
     {
       "date": "31 Décembre 1299",
-      "event": "Ensemble avec les Veilleurs, Primis bat les Apothicons, mettant fin à la Grande Guerre."
+      "event": "Avec les Veilleurs, Primis bat les Apothicons, mettant fin à la Grande Guerre."
     },
     {
       "date": "1er Janvier 1300",
-      "event": "Avant qu'ils ne disparaissent apparemment de l'histoire, Primis demande au Roi-Loup de commencer à construire Le Château \"Der Eisendrache\"."
+      "event": "Avant qu'ils ne disparaissent de l'histoire, Primis demande au Roi-Loup de commencer à construire Le Château \"Der Eisendrache\"."
     },
     {
       "date": "19 Septembre 1318",
@@ -32,7 +32,7 @@
     },
     {
       "date": "20 Septembre 1318",
-      "event": "Des fissures dans l’espace-temps téléporte Arthur à la Décision 1295 en 2025 en Angola."
+      "event": "Des fissures dans l’espace-temps téléportent Arthur à la Décision 1295 en 2025 en Angola."
     },
     {
       "date": "30 Juin 1908",
@@ -53,14 +53,14 @@
       "event": "Maxis forme le groupe 935, une organisation internationale dédiée à l'étude de l'élément 115. Maxis dit à ses scientifiques qu'ils \"représentent l'avenir de l'avancement technologique\" et seront \"les pionniers de la découverte humaine\". Le groupe jure de travailler dans le secret de leurs gouvernements respectifs. Comme le dit Maxis, \"nous ne pouvons pas nous permettre de laisser ce pouvoir tomber dans les mauvaises mains\""
     },
     {
-      "date": "5 Novembre 1934",
-      "event": "Samantha Maxis née. Sa mère meurt lors de l’accouchement."
+      "date": "5 Novembre 1934"
+      "event": "Samantha Maxis est née. Sa mère décède lors de l’accouchement."
     }
   ],
   "3": [
     {
       "date": "11 Aout 1936",
-      "event": "Maxis invite Richtofen à rejoindre le Groupe 935. Il est d'accord, agissant en secret sur les intérêts des Illuminatis."
+      "event": "Maxis invite Richtofen à rejoindre le Groupe 935. Il accepte, agissant en secret sur les intérêts des Illuminatis."
     },
     {
       "date": "10 Avril 1937",
@@ -68,35 +68,35 @@
     },
     {
       "date": "14 Juin 1957",
-      "event": "Le gouvernement des États-Unis découvre les dépôts d'élément 115 au Lac Groom."
+      "event": "Le gouvernement des États-Unis découvre les dépôts d'élément 115 à Groom Lake."
     },
     {
       "date": "2 Juillet 1939",
-      "event": "Maxis et Richtofen commencent des expériences de téléportation avec le Prototype de transfert de matière, avec un faible succès. Les sujets sont téléportés, mais leur composition chimique est modifiée en les laissant catatoniques et changés"
+      "event": "Maxis et Richtofen commencent des expériences de téléportation avec le Prototype de transfert de matière, avec un faible succès. Les sujets sont téléportés, mais leur composition chimique est modifiée, les laissant catatoniques et changés"
     }
   ],
   "4": [
     {
       "date": "5 Aout 1939",
-      "event": "En utilisant l'élément 115, Maxis et Richtofen ressuscitent un des cadavres téléportés pour la première fois. Au départ, il obéit, mais bientôt devient enragé et les attaque. Le sujet de l'examen est euthanasié."
+      "event": "En utilisant l'élément 115, Maxis et Richtofen ressuscitent un des cadavres téléportés pour la première fois. Au départ, il obéit, mais bientôt devient enragé et les attaque. Le sujet est euthanasié."
     },
     {
       "date": "3 Septembre 1939",
-      "event": "Richtofen commence le développement du Wunderwaffe DG-2."
+      "event": "Richtofen commence le développement de la Wunderwaffe DG-2."
     },
     {
       "date": "2 Novembre 1939",
-      "event": "Maxis se tourne vers le Reichstag pour un financement supplémentaire. L'Allemagne accepte la demande, exprimant son intérêt pour la recherche sur les armes, la technologie de téléportation et les sujets non-disparus réanimés."
+      "event": "Maxis se tourne vers le Reichstag pour un financement supplémentaire. L'Allemagne accepte, exprimant son intérêt pour la recherche sur les armes, la technologie de téléportation et les sujets non-disparus réanimés."
     }
   ],
   "5": [
     {
       "date": "4 Décembre 1939",
-      "event": "Pendant le Test Trial 151, Richtofen et le docteur Schuster se téléportent avec succès un noyer. C'est le premier test réussi où la composition chimique de l'objet est maintenue tout au long du processus."
+      "event": "Pendant l'essai du test 151, Richtofen et le docteur Schuster téléportent avec succès une noix. C'est le premier test réussi où la composition chimique de l'objet est maintenue tout au long du processus."
     },
     {
       "date": "5 Décembre 1939",
-      "event": "\"Edward's Resultats sur le noyer\" ne parvient pas à impressionner Maxis, qui déclare une perte de temps. Il révèle à Richtofen que le groupe 935 sera prochainement financé par l'Allemagne. Les inquiétudes de Richtofen entraînent des défections massives: lui et Schuster décident de poursuivre leurs expériences de téléportation derrière le dos de Maxis"
+      "event": "\"Les résultats de la téléportation de la noix d'Edward\" ne parvient pas à impressionner Maxis, qui déclare une perte de temps. Il révèle à Richtofen que le groupe 935 sera prochainement financé par l'Allemagne. Les inquiétudes de Richtofen entraînent son abandon progressif: lui et Schuster décident de poursuivre leurs expériences de téléportation derrière le dos de Maxis"
     },
     {
       "img": "<div class='center-img'><img style='width: 205px;height: 152px;' src='images/content/walnut.png'></div>"
@@ -105,29 +105,29 @@
   "6": [
     {
       "date": "4 Janvier 1940",
-      "event": "Richtofen et Schuster mènent leur premier test de téléportation humaine, Richtofen est tellement confiant dans son succès, il se bénévole lui-même. Téléporté vers la Lune, il rencontre le MPD, la Pyramide de l'Éther cachée par les Apothicons. Lors de l'inspection de l'appareil, Richtofen est électrocuté et commence à entendre les nombreuses voix de corruption, y compris celle du Shadowman. L'appareil le téléporte ensuite à Shangri-La. Corrompue par l'Éther Corrompu, Richfoten est progressivement possédé par une obsession de trouver Agartha."
+      "event": "Richtofen et Schuster mènent leur premier test de téléportation sur un sujet humain, Richtofen est tellement confiant dans son succès, il se téléporte lui-même. Téléporté vers la Lune, il rencontre le MDP, la Pyramide de l'Éther cachée par les Apothicons. Lors de l'inspection de l'appareil, Richtofen est électrocuté et commence à entendre de nombreuses voix de corruptions, dont celle du Shadowman. L'appareil le téléporte ensuite à Shangri-La. Corrompue par l'Éther Noir, Richtofen est progressivement possédé par l'obsession de trouver Agartha."
     },
     {
       "date": "5 Janvier 1940",
-      "event": "Richtofen est adoré par les indigènes de Shangri-La: un autel est construit en son nom. Richtofen rencontre la Pierre Angulaire pour la première fois."
+      "event": "Richtofen est adoré par les indigènes de Shangri-La: un autel est construit en son nom. Richtofen rencontre la Pierre de Convergence pour la première fois."
     },
     {
       "date": "23 Janvier 1940",
-      "event": "Après près d’un mois d'absence de Richtofen retourne à Schuster avec un plan pour construire la Station Griffin."
+      "event": "Après près d’un mois d'absence, Richtofen revient avec Schuster avec comme plan de construire la Station Griffon."
     }
   ],
   "7": [
     {
       "date": "24 Janvier 1940",
-      "event": "Richtofen renonce à sa participation aux Illuminatis. Lorsqu'on lui a demandé comment il pouvait abandonner son obligation envers l'Ordre, il dit: \"Teddy était un menteur.\""
+      "event": "Richtofen quitte les Illuminatis. Lorsqu'on lui a demandé comment il pouvait abandonner son obligation envers l'Ordre, il dit: \"Teddy était un menteur.\""
     },
     {
       "date": "13 Mars 1940",
-      "event": "La construction de la Station Griffin Station sur la Lune commence. Frustré par l'alignement de Maxis avec l'Allemagne, d'autres chercheurs mécontents du groupe 935 se joignent à la cause."
+      "event": "La construction de la Station Griffon sur la Lune commence. Frustré par l'alliance de Maxis avec l'Allemagne, d'autres chercheurs mécontents du groupe 935 se joignent à la cause de Richtofen."
     },
     {
       "date": "13 Juillet 1940",
-      "event": "Maxis demande à son assistant Sophia d'écrire une lettre au Haut Commandement du Reichstag demandant des fonds supplémentaires. Bien qu'il rapporte que la production en série sera prochainement en cours, Der Reise manque non seulement du financement, mais aussi une quantités insuffisantes de l'élément 115."
+      "event": "Maxis demande à son assistante Sophia d'écrire une lettre au Haut Commandement du Reichstag pour demander des fonds supplémentaires. Bien qu'il rapporte que la production en série sera prochainement en cours, Der Riese manque non seulement de financements, mais aussi d'une quantité insuffisante d'élément 115."
     },
     {
       "date": "1er Aout 1940",
@@ -136,11 +136,11 @@
   ],
   "8": [
     {
-      "event": "installations pour le Groupe 935. La Facilité à Kino, un théâtre réutilisé et l’Asile à Wittenau Sanatorium à Berlin."
+      "event": "installations pour le Groupe 935. L'installation à Kino, un théâtre réutilisé et l’asile Wittenau Sanatorium à Berlin."
     },
     {
       "date": "18 Aout 1940",
-      "event": "Selon la demande de l'Allemagne, l'Armée impériale japonaise remet la centrale du Rising Sun au groupe 935. La 9eme division reste impliquée sur le site."
+      "event": "Selon la demande de l'Allemagne, l'Armée impériale japonaise remet la centrale du Rising Sun au groupe 935. La division 9 reste impliquée sur le site."
     },
     {
       "date": "3 Octobre 1940",
@@ -152,13 +152,13 @@
     },
     {
       "date": "24 Juin 1941",
-      "event": "L'épouse de Nikolai Belinski est tuée lors de l'avance allemande dans l'Union soviétique. Dans un effort pour engourdir la douleur, Nikolai se tourne de plus en plus vers la vodka."
+      "event": "L'épouse de Nikolai Belinski est tuée lors de l'avancée allemande en l'Union soviétique. Dans un effort pour engourdir la douleur, Nikolai se tourne de plus en plus vers la vodka."
     }
   ],
   "9": [
     {
       "date": "11 Janvier 1942",
-      "event": "Maxis donne Fluffy à Samantha. Le chien attend une portée."
+      "event": "Maxis donne Fluffy à Samantha. La chienne attend une portée."
     },
     {
       "date": "20 Janvier 1942",
@@ -166,29 +166,29 @@
     },
     {
       "date": "26 Janvier 1942",
-      "event": "Sur le serveur de données, Maxis catalogues les sites de dépôts importants de l'élément 115. Il comprend des informations sur ses diverses applications et villes selon lesquelles la réanimation des cellules mortes est un effet secondaire possible."
+      "event": "Sur le serveur de données, Maxis catalogues les sites de dépôts importants de l'élément 115. Il lit des informations sur les diverses applications et villes pour lesquelles la réanimation des cellules mortes est un effet secondaire possible."
     },
     {
       "date": "30 Janvier 1942",
-      "event": "Richtofen complète le prototype Wunderwaffe DG-2."
+      "event": "Richtofen termine le prototype Wunderwaffe DG-2."
     },
     {
       "date": "1er Février 1942",
-      "event": "Avec la finalasation de la Station Griffin, Richtofen nomme le scientifique principal Docteur Groph et retourne sur Terre pour continuer la charade avec Maxis. Travaillant aux côtés de Schuster, Groph est laissé pour découvrir le pouvoir du MPD."
+      "event": "Avec la finalisation de la Station Griffon, Richtofen nomme Docteur Groph responsable scientifique et retourne sur Terre pour continuer le simulacre avec Maxis. Travaillant aux côtés de Schuster, Groph est laissé pour découvrir le pouvoir du MDP."
     }
   ],
   "10": [
     {
       "date": "2 Février 1942",
-      "event": "Dans un discours à son équipe, Groph parle avec optimisme de l'établissement de la Station Griffin comme base permanente d'opérations."
+      "event": "Dans un discours à son équipe, Groph parle avec optimisme de la Station Griffin comme base permanente d'opérations."
     },
     {
       "date": "17 Avril 1942",
-      "event": "Maxis développe le prototype Ray Gun à l'installation Rising Sun. H. Porter travaille sur le développement du modèle de 2ème génération."
+      "event": "Maxis développe le prototype du Pistolet Laser à l'installation Rising Sun. H. Porter travaille sur le développement d'un modèle de 2ème génération."
     },
     {
       "date": "13 Juin 1942",
-      "event": "Suite de fissures temporelles en 1963, Kino, Monty traverse le temps et offre de petits coup de pouces. Un des coup de pouce étant de développer les élixirs fusionnés aux éléments 115 du Groupe 935. Ils créent quatre boissons médicinales connues sous le nom de Mastodonte, Réanimation rapide, Cola énergisant et Double Coup."
+      "event": "Suite aux fissures temporelles de 1963 sur Kino, Monty traverse le temps et offre de petits coup de pouces. Une des aides étant de développer des élixirs fusionnés aux éléments 115 du Groupe 935. Ils créent quatre boissons médicinales connues sous le nom de Mastodonte, Réanimation rapide, Cola énergisant et Double Coup."
     },
     {
       "date": "28 Juin 1942",
@@ -198,11 +198,11 @@
   "11": [
     {
       "date": "18 Juillet 1942",
-      "event": "Groph et Schuster découvrent involontairement comment charger le MPD. Lorsque Schuster tue un rat à proximité de l'appareil, son décès inexplicablement commence à remplir le réservoir, en chargeant l'appareil. Ils rapportent leurs résultats à Richtofen."
+      "event": "Groph et Schuster découvrent involontairement comment charger le MDP. Lorsque Schuster tue un rat à proximité de l'appareil, sa mort commence à remplir inexplicablement le réservoir, en chargeant l'appareil. Ils font un rapport à Richtofen."
     },
     {
       "date": "20 Juillet 1942",
-      "event": "Richtofen commence à envoyer des soldats et des scientifiques sur la lune pour être sacrifiés; Leurs âmes servaient à charger le MPD."
+      "event": "Richtofen envoie des soldats et des scientifiques sur la lune pour être sacrifiés; Leurs âmes servent à charger le MDP."
     },
     {
       "date": "5 Novembre 1942",
@@ -210,7 +210,7 @@
     },
     {
       "date": "8 Décembre 1942",
-      "event": "Richtofen partage les recettes Elixir à base d'élément 115 avec la Station Griffin. Ils développent Coup de pied arrière."
+      "event": "Richtofen partage les recettes d'elixir à base d'élément 115 avec la Station Griffon. Ils développent Coup de pied arrière."
     }
   ],
   "12": [
@@ -220,29 +220,29 @@
     },
     {
       "date": "14 Décembre 1942",
-      "event": "Richtofen crée le Singe Farceur."
+      "event": "Richtofen crée la bombe singe."
     },
     {
       "date": "16 Décembre 1942",
-      "event": "Dans un journal personnel, Maxis exprime sa préoccupation face à l'impact de l'élément 115 sur le comportement de Richtofen. Ne lui fesant plus confiance, il se demande si c'est une erreur de l'inviter au groupe 935."
+      "event": "Dans un journal personnel, Maxis exprime sa préoccupation face à l'impact de l'élément 115 sur le comportement de Richtofen. Ne lui faisant plus confiance, il se demande si c'est une erreur de l'avoir inviter au Groupe 935."
     },
     {
       "date": "20 Décembre 1942",
-      "event": "Accompagné de Sophia, Maxis est transféré à l'installation de Kino pour se concentrer sur la création de l'armée allemande des morts-vivants. Samantha est laissé chez Richtofen."
+      "event": "Accompagné de Sophia, Maxis est transféré au complexe de Kino pour se concentrer sur la création de l'armée des morts-vivants.Samantha est laissée chez Richtofen."
     },
     {
       "date": "8 Janvier 1943",
-      "event": "Maxis s'inquiète que lui et Sophia se soient devenus trop proches. Il considère l'envoyer quelque part."
+      "event": "Maxis s'inquiète que lui et Sophia ne soient devenus trop proches. Il considère qu'il doit l'envoyer autre part."
     }
   ],
   "13": [
     {
       "date": "16 Janvier 1943",
-      "event": "Nikolai est capturé par les forces allemandes pendant la bataille de Stalingrad. Il devient un sujet dans les expériences du groupe 935."
+      "event": "Nikolai est capturé par les forces allemandes pendant la bataille de Stalingrad. Il devient un sujet d'expérience du groupe 935."
     },
     {
       "date": "27 Janvier 1943",
-      "event": "Maxis rapporte le succès avec le sujet Deux-Six, dont les \"explosions violentes ont été considérablement réduites.\" Maxis croit que \"cette méthode de traitement sera 100% efficace dans la plupart des cas.\""
+      "event": "Maxis fait un rapport du succès Deux-Six, dont les \"explosions violentes ont été considérablement réduites.\" Maxis croit que \"cette méthode de traitement sera 100% efficace dans la plupart des cas.\""
     },
     {
       "date": "2 Février 1943",
